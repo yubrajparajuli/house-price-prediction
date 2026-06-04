@@ -33,17 +33,15 @@ git clone https://github.com/yubrajparajuli/house-price-prediction.git
 cd house-price-prediction
 
 uv venv
-source .venv/bin/activate  # Mac/Linux
-.venv\Scripts\activate     # Windows
-
+source .venv/bin/activate
 uv add numpy pandas matplotlib seaborn scikit-learn streamlit jupyter ipykernel
+```
 
-# download dataset from Kaggle
-# https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
-# place kc_house_data.csv in data/ folder
+Download dataset from Kaggle and place `kc_house_data.csv` in `data/` folder:
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
+```bash
 python main.py
-
 streamlit run app/streamlit_app.py
 ```
 
