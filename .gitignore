@@ -1,0 +1,44 @@
+# virtual environment
+.venv/
+env/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# data 
+data/
+
+# models 
+models/
+src_models/
+
+# reports and figures
+src_reports/
+
+# logs
+
+*.log
+reports/pipeline.log
+
+# mac
+.DS_Store
+
+# vscode
+.vscode/
+
+# environment variables
+.env
+
+# uv
+.python-version
