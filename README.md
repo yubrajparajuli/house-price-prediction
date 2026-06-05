@@ -5,8 +5,6 @@ A complete end-to-end machine learning project predicting house prices in King C
 ## Live Demo
 
 - Streamlit App: [House Price Predictor](https://yubrajparajuli-house-price-prediction-appstreamlit-app-cvdjo3.streamlit.app/)
-- Docker Hub: [yubraj101/house-price-prediction](https://hub.docker.com/r/yubraj101/house-price-prediction)
-- Medium Blog: Coming Soon
 
 ## Models Implemented
 
@@ -78,7 +76,7 @@ Link: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 ## Blog
 
 Read the full walkthrough on Medium:
-[Building Linear Regression from Scratch on King County House Sales — Coming Soon](#)
+[I Opened the Black Box. Built Linear Regression from Scratch on Real Housing Data.](https://medium.com/@yubrajparajuli/i-opened-the-black-box-built-linear-regression-from-scratch-on-real-housing-data-f69d46086685)
 
 ## Author
 
